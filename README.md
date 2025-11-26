@@ -43,3 +43,8 @@ Veja os milestones no GitHub Projects.
 - Testes (unit, integration, e2e)
 - Build
 - Deploy automático na Vercel
+
+## Node Version
+
+Esse projeto usa Node **20.12.2**  
+Rode `nvm use` antes de instalar as dependências.
